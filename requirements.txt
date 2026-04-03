@@ -1,2 +1,5 @@
 fastapi[all]
 requests
+SQLAlchemy==2.0.29
+sqlmodel==0.0.16
+pydantic_settings==2.12.5
